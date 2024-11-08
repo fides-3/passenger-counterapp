@@ -1,0 +1,1 @@
+This app is designed to track the number of paasengers in real-time.This app enables a person to count the number of people around a bus or train station.It can help transport operators keep up-to-date passenger numbers
